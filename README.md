@@ -7,7 +7,7 @@
 
 
 
-#resources
+# resources
 **recommended resources:**
 **rust book:https://doc.rust-lang.org/book/**
 **rust book would be the best option but requires alot of focus**
